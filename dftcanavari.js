@@ -47,6 +47,7 @@ class DFTCanavari{
         stroke(255,0,0);
         strokeWeight(3);
         fill(255,0,0);
+        this.sum.mult(1/this.N);
         line(0,0, this.sum.x, -this.sum.y);
         circle(this.sum.x, -this.sum.y, 20);
     }
