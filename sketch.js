@@ -23,7 +23,7 @@ function draw() {
   freq.push(c.sum.mag());
   
   // Yalnızca tamsayılarda bakmak daha etkili
-  // ayrıca setup'a ekle: "frameRate(1)"
+  // ayrıca setup'a ekle: "frameRate(1)" ve inc = 1
   // if(c.sum.mag()>1){
   //   console.log(c.k + " - " + c.sum.mag());
   // }
