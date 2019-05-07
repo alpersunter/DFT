@@ -21,6 +21,15 @@ function draw() {
   c.goster(); 
   c.k += inc;
   freq.push(c.sum.mag());
+  
+  // Yalnızca tamsayılarda bakmak daha etkili
+  // ayrıca setup'a ekle: "frameRate(1)"
+  // if(c.sum.mag()>1){
+  //   console.log(c.k + " - " + c.sum.mag());
+  // }
+  // 
+  // freq.push(c.sum.mag());
+  // c.k += inc;
 }}
 let inc = 0.01;
 // function mouseWheel(event) {
