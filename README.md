@@ -3,6 +3,8 @@ Wrap the signal around unit complex circle!
 
 This is inspired by 3B1B's Fourier transform video.
 
+You can find .gif files under folder called *gifs* and p5 sketches used to create them under folder called *animations*. 
+
 ## How it works?
 
 Imagine taking a function and wrapping it around a circle. What! What does "wrapping" even mean in this context? 
