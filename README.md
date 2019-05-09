@@ -10,9 +10,13 @@ It might surprise you how useful it is to roll signals around a circle and obser
 
 For convenience let's pick a unit circle on the complex plane. (We could have used, esentially, any 2-dimensional vector space but math books and everyone I know uses complex form for some reason -It works though, I shouldn't complain)
 
-![alt](gifs/Complex%20Unit%20Circle.gif)
+![Complex Unit Circle Animation](gifs/Complex%20Unit%20Circle.gif)
 
 <a href="https://editor.p5js.org/alpersunter1@gmail.com/present/cX1xOPs8w" target="_blank">Interactive version of this gif?</a>
+
+
+# I will continue later ...
+
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;\large&space;y[n]=\sum_{k}x[n]\cdot&space;e^{i2\pi&space;kn/N}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\large&space;y[n]=\sum_{k}x[n]\cdot&space;e^{i2\pi&space;kn/N}" title="\large y[n]=\sum_{k}x[n]\cdot e^{i2\pi kn/N}" /></a>
 
