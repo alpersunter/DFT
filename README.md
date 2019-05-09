@@ -4,6 +4,7 @@ Wrap the signal around unit complex circle!
 This is inspired by 3B1B's Fourier transform video.
 
 You can find .gif files under folder called *gifs* and p5 sketches used to create them under folder called *animations*. 
+I am using ezgif.com for editing gifs and codecogs.com to create latex equations.
 
 ## How it works?
 
