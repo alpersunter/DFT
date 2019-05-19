@@ -1,4 +1,7 @@
 # Discrete Fourier Transform
+
+_This project will be resumed after I read "Mastering the Discrete Fourier Transform in One, Two or Several Dimensions: Pitfalls and Artifacts" by Isaac Amidror_
+
 Wrap the signal around unit complex circle!
 
 This is inspired by 3B1B's Fourier transform video.
